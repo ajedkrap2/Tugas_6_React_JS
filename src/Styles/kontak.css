@@ -1,0 +1,13 @@
+#kontak_bg {
+  background-image: url("../Assets/bg.jpeg");
+  background-repeat: no-repeat;
+  background-size: 120%;
+  height: 730px;
+}
+
+.kontak {
+  color: black;
+  text-align: center;
+  margin-top: 208px;
+  background-color: white;
+}
